@@ -175,3 +175,4 @@
 73762: 'Grey\'s Anatomy', 'Greys Anatomy',
 73388: 'MythBusters', 'MythBusters - Die Wissensjaeger',
 28477: 'Ikkitousen Dragon Girls', 'Ikki Tousen', 'Ikki Tousen Dragon Girls',
+80345: 'Reaper', 'Reaper - Ein teuflischer Job', 'Reaper Ein teuflischer Job',
