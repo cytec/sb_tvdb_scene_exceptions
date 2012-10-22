@@ -150,7 +150,6 @@
 131791: 'Sci-Fi Science: Physics of the Impossible', 'Sci Fi Science Physics of the Impossible ',
 253931: 'Rob',
 255045: 'The L.A. Complex', 'The LA Complex',
-79212: 'The Dog Whisperer', 'Dog Whisperer',
 248935: 'Touch (2012)', 'Touch',
 254798: 'Stella (2012)', 'Stella UK,
 247824: 'The Voice (US)', 'The Voice',
@@ -179,3 +178,4 @@
 72227: 'Two and a Half Men', 'Mein cooler Onkel Charlie',
 248835: 'Once Upon A Time', 'Once Upon A Time (2011)', 'Once Upon A Time - Es war einmal...', 'Once Upon A Time - Es war einmal',
 79212: 'The Dog Whisperer', 'Der Hundefluesterer',
+251085: 'Die Legende von Korra', 'The Legend of Korra',
