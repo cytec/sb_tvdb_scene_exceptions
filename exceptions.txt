@@ -179,3 +179,4 @@
 79212: 'The Dog Whisperer', 'Der Hundefluesterer',
 251085: 'Die Legende von Korra', 'The Legend of Korra',
 263352: 'Sindbad (2012)', 'Sindbad',
+94551: 'Parenthood (2010)', 'Parenthood'
