@@ -146,7 +146,7 @@
 85168: 'How the Earth Was Made', 'History channel How the Earth Was Made',
 71256: 'The Daily Show', 'The Daily Show with Jon Stewart',
 253543: 'All American Muslim', 'All-American Muslim',
-131791: 'Sci-Fi Science: Physics of the Impossible', 'Sci Fi Science Physics of the Impossible ',
+131791: 'Sci-Fi Science: Physics of the Impossible', 'Sci Fi Science Physics of the Impossible ', 'Science oder Fiction',
 253931: 'Rob',
 255045: 'The L.A. Complex', 'The LA Complex',
 248935: 'Touch (2012)', 'Touch',
@@ -184,3 +184,5 @@
 196921: 'Being Human US', 'Being Human',
 82155: 'In Plain Sight', 'In Plain Sight - In der Schusslinie', 'In der Schusslinie',
 248962: 'Transporter', 'Transporter - Die Serie', 'Transporter Die Serie',
+95491: 'Vampire Diaries', 'The Vampire Diaries',
+
