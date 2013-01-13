@@ -178,7 +178,7 @@
 248835: 'Once Upon A Time', 'Once Upon A Time (2011)', 'Once Upon A Time - Es war einmal...', 'Once Upon A Time - Es war einmal', 'Once Upon A Time Es war einmal',
 79212: 'The Dog Whisperer', 'Der Hundefluesterer',
 251085: 'Die Legende von Korra', 'The Legend of Korra',
-263352: 'Sindbad (2012)', 'Sindbad',
+258743: 'Sindbad (2012)', 'Sindbad',
 94551: 'Parenthood (2010)', 'Parenthood',
 263506: 'Jamie\'s 15 Minute Meals', 'Jamies 15 Minute Meals',
 196921: 'Being Human US', 'Being Human',
