@@ -190,3 +190,4 @@
 78272: 'I am Weasel',
 79311: 'Angels in America', 'Engel in Amerika',
 237831: 'Veep', 'Veep - Die Vizepraesidentin',
+242521: 'Dallas (2012)', 'Dallas 2012', 'Dallas',
