@@ -196,3 +196,9 @@
 262980: 'House of Cards 2013',
 148581: 'Strike Back', 'Strike Back Project Dawn', 'Strike Back 2011', 'Strike Back Vengeance',
 257939: 'Copper', 'Copper Justice is brutal',
+70860: 'Carnivale',
+80399: 'Der alles Esser', 'Der alles Esser So schmeckt die Welt',
+159431: 'Saeulen der Erde', 'Die Saeulen der Erde',
+165841: 'Top Shot', 'Top Shot Nur einer kann gewinnen',
+
+
