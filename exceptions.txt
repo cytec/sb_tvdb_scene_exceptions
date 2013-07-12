@@ -69,7 +69,7 @@
 92361: 'Known Universe', 'National Geographic Known Universe',
 78804: 'Doctor Who (2005)',
 79771: 'Air Crash Investigation', 'Air Crash Investigation Mayday', 'National Geographic Air Crash Investigation',
-210171: 'The Killing (2011)', 'The Killing',
+210171: 'The Killing (2011)', 'The Killing', 'The Killing Das Verbrechen', 'Kommissarin Lund - Das Verbrechen',
 81670: 'The Murdoch Mysteries', 'Murdoch Mysteries', 'The Murdoch Mysteries (2008)',
 79668: 'Anthony Bourdain: No Reservations', 'No Reservations',
 70336: 'The Tonight Show with Jay Leno', 'Jay Leno',
@@ -205,3 +205,4 @@
 247809: 'Necessary Roughness', 'Dr. Dani Santino',
 164501: 'Mike und Molly', 'Mike und Molly',
 239761: 'Wilfred', 'Wilfred US',
+259765: 'Banshee', 'Banshee Small Town Big Secrets',
