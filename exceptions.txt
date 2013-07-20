@@ -206,6 +206,7 @@
 164501: 'Mike und Molly', 'Mike und Molly',
 239761: 'Wilfred', 'Wilfred US',
 259765: 'Banshee', 'Banshee Small Town Big Secrets',
+264085: 'The Bridge (2013)', 'The Bridge US', 'The Bridge (US)', 'The Bridge - America', 'The Bridge',
 78890: 'Spooks', 'Spooks Im Visier des MI5', 'Spooks - Im Visier des MI5',
 164301: 'Nikita', 'Nikita (2010)','Tödlicher Blick',
 261832: 'Underemployed', 'Unterbeschäftigt',
