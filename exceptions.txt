@@ -212,5 +212,3 @@
 248682: 'New Girl', 'Neues Mädchen',
 121361: 'Game of Thrones', 'Spiel um einen Ehrenplatz',
 220411: 'Girls', 'Jugendliche',
-
-
