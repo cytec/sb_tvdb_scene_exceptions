@@ -191,7 +191,7 @@
 79311: 'Angels in America', 'Engel in Amerika',
 237831: 'Veep', 'Veep - Die Vizepraesidentin',
 71635: 'Ein Kaefig voller Helden',
-242521: 'Dallas (2012)', 'Dallas 2012',
+242521: 'Dallas (2012)', 'Dallas 2012', 'Southfork',
 258480: 'TRON: Der Aufstand', 'TRON Der Aufstand',
 262980: 'House of Cards 2013',
 148581: 'Strike Back', 'Strike Back Project Dawn', 'Strike Back 2011', 'Strike Back Vengeance',
@@ -206,3 +206,11 @@
 164501: 'Mike und Molly', 'Mike und Molly',
 239761: 'Wilfred', 'Wilfred US',
 259765: 'Banshee', 'Banshee Small Town Big Secrets',
+78890: 'Spooks', 'Spooks Im Visier des MI5', 'Spooks - Im Visier des MI5',
+164301: 'Nikita', 'Nikita (2010)','Tödlicher Blick',
+261832: 'Underemployed', 'Unterbeschäftigt',
+248682: 'New Girl', 'Neues Mädchen',
+121361: 'Game of Thrones', 'Spiel um einen Ehrenplatz',
+220411: 'Girls', 'Jugendliche',
+
+
