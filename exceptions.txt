@@ -238,3 +238,4 @@
 71470: 'STTNG', 'The next generation', 'Star Trek - The next Generation',
 80621: 'Secret Diary Of A Call Girl', 'Secret Diary of a Call Girl - Gestaendnisse einer Edelhure',
 258823: 'Revolution', 'Revolution 2012',
+281709: 'The Librarians (2014)', 'The Librarians (US)', 'The Librarians US'
