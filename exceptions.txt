@@ -241,4 +241,5 @@
 281709: 'The Librarians (2014)', 'The Librarians (US)', 'The Librarians US',
 269159: 'The Musketeers', 'Die Musketiere',
 289561: 'Der Tatortreiniger', 'Tatortreiniger',
-266091: 'Marco Polo (2014)' , 'Marco Polo'
+266091: 'Marco Polo (2014)' , 'Marco Polo',
+269650: 'Resurrection', 'Resurrection US',
