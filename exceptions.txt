@@ -246,3 +246,5 @@
 281535: 'Forever (2014)', 'Forever',
 95451: 'The Good Wife', 'Good Wife',
 254367: 'Real Humans - Echte Menschen', 'Real Humans',
+259054: 'Mistresses', 'Mistresses US', 'Mistresses (US)', 'Mistresses (2013)',
+268591: 'The Tomorrow People (US)', 'The Tomorrow People', 'The Tomorrow People (2013)',
