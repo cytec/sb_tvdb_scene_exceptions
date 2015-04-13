@@ -249,4 +249,4 @@
 259054: 'Mistresses', 'Mistresses US', 'Mistresses (US)', 'Mistresses (2013)',
 268591: 'The Tomorrow People (US)', 'The Tomorrow People', 'The Tomorrow People (2013)',
 276312: 'From Dusk Till Dawn', 'From Dusk Till Dawn: The Series',
-281662: 'Daredevil, 'Marvels Daredevil',
+281662: 'Daredevil', 'Marvels Daredevil', 'Marvel\'s Daredevil',
