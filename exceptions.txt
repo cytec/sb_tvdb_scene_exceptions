@@ -238,7 +238,7 @@
 71470: 'STTNG', 'The next generation', 'Star Trek - The next Generation',
 80621: 'Secret Diary Of A Call Girl', 'Secret Diary of a Call Girl - Gestaendnisse einer Edelhure',
 258823: 'Revolution', 'Revolution 2012',
-281709: 'The Librarians (2014)', 'The Librarians (US)', 'The Librarians US',
+281709: 'The Librarians (2014)', 'The Librarians (US)', 'The Librarians US', 'The Quest-Die Serie', 'The Quest Die Serie',
 269159: 'The Musketeers', 'Die Musketiere',
 289561: 'Der Tatortreiniger', 'Tatortreiniger',
 266091: 'Marco Polo (2014)' , 'Marco Polo',
