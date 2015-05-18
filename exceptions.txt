@@ -252,3 +252,6 @@
 281662: 'Daredevil', 'Marvels Daredevil', 'Marvel\'s Daredevil',
 248841: 'Scandal', 'Scandal (2012)',
 75978: 'Family.Guy', 'Family Guy',
+193131: 'Downton_Abbey', 'Downton Abbey','Downton.Abbey',
+153021: 'The.Walking.Dead', 'The Walking Dead',
+73388: 'MythBusters',
