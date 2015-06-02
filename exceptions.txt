@@ -252,4 +252,4 @@
 281662: 'Daredevil', 'Marvels Daredevil', 'Marvel\'s Daredevil',
 248841: 'Scandal', 'Scandal (2012)',
 75978: 'Family.Guy', 'Family Guy',
-281537: 'Aquarius (2015)', 'Aquarius', 'Aquarius US'
+281537: 'Aquarius (2015)', 'Aquarius', 'Aquarius US',
