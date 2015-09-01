@@ -254,3 +254,4 @@
 75978: 'Family.Guy', 'Family Guy',
 281537: 'Aquarius (2015)', 'Aquarius', 'Aquarius US',
 288064: 'Strip the Cosmos', 'Strip the Cosmos Im Innersten des Universums',
+290853: 'Fear The Walking Dead', 'Fear the Walking D3ad',
