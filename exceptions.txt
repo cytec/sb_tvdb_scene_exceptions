@@ -255,3 +255,5 @@
 281537: 'Aquarius (2015)', 'Aquarius', 'Aquarius US',
 288064: 'Strip the Cosmos', 'Strip the Cosmos Im Innersten des Universums',
 290853: 'Fear The Walking Dead', 'Fear the Walking D3ad',
+259055: 'Nashville', 'Nashville 2012',
+290174: 'Der gestiefelte Kater', 'Der gestiefelte Kater - Abenteuer in San Lorenzo',
