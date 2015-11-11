@@ -260,3 +260,4 @@
 257645: 'Ultimate Spiderman', 'Ultimate Spiderman Web Warriors', 'Ultimate Spider-Man', 'Ultimate Spider-Man Web Warriors',
 284190: 'Marvels Jessica Jones', 'Jessica Jones', 'AKA Jessica Jones', 'Marvels AKA Jessica Jones',
 267543: 'Marvels Hulk and the Agente of S.M.A.S.H.', 'Marvels Hulk and the Agents of SMASH', 'Hulk and the Agents of S.M.A.S.H.', 'Hulk and the Agents of SMASH',
+291517: 'Agent X (2015)', 'Agent X US',
