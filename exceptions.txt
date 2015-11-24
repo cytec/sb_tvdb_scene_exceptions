@@ -261,3 +261,4 @@
 284190: 'Marvels Jessica Jones', 'Jessica Jones', 'AKA Jessica Jones', 'Marvels AKA Jessica Jones',
 267543: 'Marvels Hulk and the Agente of S.M.A.S.H.', 'Marvels Hulk and the Agents of SMASH', 'Hulk and the Agents of S.M.A.S.H.', 'Hulk and the Agents of SMASH',
 291517: 'Agent X (2015)', 'Agent X US',
+293614: 'Marvels Guardians of the Galaxy', 'Guardians of the Galaxy',
