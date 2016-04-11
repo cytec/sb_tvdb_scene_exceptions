@@ -267,3 +267,5 @@
 101501: 'Ancient Aliens Unerklaerliche Phaenomene', 'Ancient Aliens',
 281700: 'Odd Couple', 'The Odd Couple', 'The Odd Couple 2015',
 290174: 'Der gestiefelte Kater', 'Der gestiefelte Kater - Abenteuer in San Lorenzo', 'Der gestiefelte Kater Abenteuer in San Lorenzo',
+264030: 'Marvel\'s Avengers Assemble', 'Marvels Avengers-Ultron Revolution',
+257645: 'Ultimate Spider-Man', 'Ultimate Spider-Man Web Warriors', 'Ultimate Spider-Man vs the Sinister 6',
